@@ -1,4 +1,4 @@
-# twiiter-WeRateDogs-DA
+# twitter-WeRateDogs-DA
 ## Workflow
 ### Gathering
   - twitter archive enhanced csv
